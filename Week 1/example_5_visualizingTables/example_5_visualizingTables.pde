@@ -1,5 +1,6 @@
 // First, visit and explore: https://benfry.com/zipdecode/
 // Then, work through this example and explore your own ways to visualize this data
+// Also consider/discuss ethical dimensions of this data
 // After, check out counting strings and HashMap example in AdvancedData
 
 Table table; // global variable (a table object)
